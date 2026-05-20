@@ -77,7 +77,7 @@ export default function Featured() {
           </div>
         </div>
         <div className="flex-1 relative min-h-[400px] lg:min-h-0">
-          <div className="absolute inset-0 bg-slate-800 flex items-center justify-center">
+          <div className="absolute inset-0 flex items-center justify-center" style={{background: `linear-gradient(to bottom, rgba(15,23,42,0.7), rgba(15,23,42,0.85)), url('https://cdn.poehali.dev/projects/56f8c47c-5852-40b3-a800-510f1bac2a4c/files/20a4ae1a-5205-45f7-b464-145a8d5ef3e3.jpg') center/cover no-repeat`}}>
             <div className="text-center p-8">
               <div className="grid grid-cols-2 gap-4 mb-6">
                 <div className="bg-green-500/20 border border-green-500/40 rounded-sm p-6 text-center">

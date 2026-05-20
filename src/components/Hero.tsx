@@ -16,8 +16,8 @@ export default function Hero() {
     >
       <motion.div style={{ y }} className="absolute inset-0 w-full h-full">
         <img
-          src="/images/mountain-landscape.jpg"
-          alt="Птицефабрика"
+          src="https://cdn.poehali.dev/projects/56f8c47c-5852-40b3-a800-510f1bac2a4c/files/443cc9ae-764e-484c-ab40-8daf1f9e771b.jpg"
+          alt="Птицефабрика с воздуха"
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-b from-slate-950/80 via-slate-900/60 to-slate-950/90" />
